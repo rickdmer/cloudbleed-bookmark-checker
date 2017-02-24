@@ -1,7 +1,7 @@
 {
   "name": "Cloudbleed Bookmark Checker",
-  "version": "1.0",
-  "description": "A plugin that checks your bookmarks against potentially affected domains. List from https://github.com/pirate/sites-using-cloudflare",
+  "version": "1.1",
+  "description": "A plugin that checks your bookmarks against potentially affected domains.",
   "permissions": [
     "bookmarks"
   ],
